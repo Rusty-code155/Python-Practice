@@ -13,3 +13,5 @@ print(funky_name)
 reversed_name=name[::-1]
 print(reversed_name)
 #Slicing
+slice=slice(4,-6)
+print(name[slice])
